@@ -6,7 +6,7 @@ This repo contains the solutions to the projects of the 2018 summer session of B
 
 In the table below, you will find a short description of all the projects included in this repo. Each project has a link that takes you to that specific project's instructions. The links provided are not for the Summer 2018 version of the course since the links for that course are not available, however the instructions for Fall 2018 version of the course are the same for all projects. 
 
-In order to run projects 1-4, you will need **Python 2.7.x**  .
+In order to run projects 1-4, you will need **Python 2.7**  .
 
 | Project name               |Topic                          |Link to Project Instructions                         
 |----------------|-------------------------------|-----------------------------

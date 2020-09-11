@@ -1,12 +1,17 @@
 # CS188 Introduction to Artificial Intelligence
 
-This repo contains the solutions to the projects of the 2018 summer session of Berkeley's **CS188 Introduction to Artificial Intelligence**. 
+This repo contains the solutions to the projects of the 2018 summer session of Berkeley's **CS188 Introduction to Artificial Intelligence**. These projects involve implementing foundational AI techniques to the game of Pac-Man such as informed state-space search, probabilistic inference, and reinforcement learning. The Pac-Man game graphics allow the user to visualize the results of the techniques implemented.  
 
-# Project Descriptions and Instructions
+## Requirements:
 
-In the table below, you will find a short description of all the projects included in this repo. Each project has a link that takes you to that specific project's instructions. The links provided are not for the Summer 2018 version of the course since the links for that course are not available, however the instructions for Fall 2018 version of the course are the same for all projects. 
+The following items should be installed in your system:
+* Python 2.7
+* git command line tool
 
-In order to run projects 1-4, you will need **Python 2.7**  .
+## Project Descriptions and Instructions
+
+In the table below, you will find a short description of all the projects included in this repo. Each project has a link with the specific project's instructions and questions. The links provided are not for the Summer 2018 version of the course since the links for that course are not available, however the instructions for Fall 2018 version of the course are the same for all projects. 
+
 
 | Project name               |Topic                          |Link to Project Instructions                         
 |----------------|-------------------------------|-----------------------------
